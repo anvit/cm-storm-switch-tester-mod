@@ -7,4 +7,7 @@ The keypad will function as a basic macro launcher with macros for launching Fac
 Mech_midi:
 The keypad will function as a 6-note midi keyboard(Akebono scale). 
 
+Mech_keypad:
+The keypad will function as a navigation keypad with arrow keys, Page up and Page down.
+
 Refer to my build log for more details: http://imgur.com/a/eDI7W
